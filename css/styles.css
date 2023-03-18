@@ -1,0 +1,20 @@
+h1, h2, h3, h4, h5, h6 {
+color:black;
+font-family: "playfair display", serif;
+font-weight: bold;
+}
+
+    
+p{
+    font-family:"poppins", sans-serif;
+    font-size: normal;
+}
+.hero{
+    text-align: center;
+    background-color: rgb(252, 250, 247);
+}
+.hero p{
+    font-size:36px;
+    font-family: "playfair display", serif;
+
+}
