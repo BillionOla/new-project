@@ -171,3 +171,9 @@ Footer .email-link:hover {
     background-color:rgb(252, 250, 247);
     padding: 160px 20px;
 }
+.fa-brands{
+    line-height: 1.5;
+    width: 100px;
+    color: black;
+    max-width: 100px;
+}
