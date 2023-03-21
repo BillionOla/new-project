@@ -163,3 +163,11 @@ Footer .email-link:hover {
 #pics {
   box-shadow: 100px black;
   }
+.soon{
+  text-align: center;
+  padding: 200px 20px;
+  }
+.blog-body{
+    background-color:rgb(252, 250, 247);
+    padding: 160px 20px;
+}
