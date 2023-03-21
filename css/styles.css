@@ -160,3 +160,6 @@ text-decoration: none;
 Footer .email-link:hover {
     color: var(--branding-color);
   }
+#pics {
+  box-shadow: 100px black;
+  }
